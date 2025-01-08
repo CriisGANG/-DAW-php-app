@@ -1,3 +1,3 @@
 <?php
-echo "Això és un script nou.";
+echo "Això és un script nou. Señor";
 ?>
